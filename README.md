@@ -1,6 +1,6 @@
 👋 Hello, I'm Asmit Patil
 
-🎓currently pursuing my Bachelor of Commerce degree (TYBCOM) and I'm excited to kickstart my journey in the world of data analytics as a fresher.
+🎓Recently completed my Bachelor of Commerce degree (TYBCOM) and I'm excited to kickstart my journey in the world of data analytics as a fresher.
 
 📊 Data analytics has potential to transform raw information into actionable insights. As a fresher, I bring a fresh perspective and a hunger to learn and grow in this dynamic field.
 
